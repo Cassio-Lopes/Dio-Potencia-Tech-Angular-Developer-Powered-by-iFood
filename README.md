@@ -17,4 +17,5 @@
   - 01 - Variaveis e Operadores
   - 02 - Estruturas Condicionais
   - 03 - Lista de Exercícios Praticando com Variaveis Operadores e Estruturas Condicionais
+  - 04 - Conhecendo Funções 
   
